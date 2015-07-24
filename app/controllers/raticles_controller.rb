@@ -1,0 +1,2 @@
+class RaticlesController < ApplicationController
+end
